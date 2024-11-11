@@ -1,0 +1,53 @@
+/* Estilos básicos */
+body {
+    background-color: #ffccff;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+.header, footer {
+    background-color: #ff99cc;
+    color: #333;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.navbar a {
+    color: #333;
+    margin: 0 15px;
+}
+
+.profile-img {
+    border: 3px solid #ff66b2;
+    padding: 5px;
+}
+
+.social-media-links a {
+    font-size: 1.5em;
+    margin: 0 10px;
+    color: #333;
+}
+
+.experience-item, .achievement-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #ffcce6;
+    border-radius: 10px;
+}
+
+form .btn-pink {
+    background-color: #ff66b2;
+    color: #ffffff;
+}
+
+/* Hover effects */
+.navbar a:hover, .social-media-links a:hover, form .btn:hover {
+    color: #ffffff;
+    background-color: #ff66b2;
+}
+
+h3 {
+    color: #333;
+}
